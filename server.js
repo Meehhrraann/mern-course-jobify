@@ -35,7 +35,7 @@ if(process.env.NODE_ENV !== 'production'){
 
 const __dirname = dirname(fileURLToPath(import.meta.url)) // directory folder
 // **dev-only** access to front-end <<build folder>> in localhost://5000 instead of localhost:3000
-app.use(express.static(path.resolve(__dirname, '../client/build'))) 
+app.use(express.static(path.resolve(__dirname, 'client/build'))) 
 // available json req in CONTROLLERS
 app.use(express.json()) 
 app.use(cookieParser()) // ***Cookie***
@@ -50,7 +50,7 @@ app.use('/api/v1/auth', authRouter)
 app.use('/api/v1/jobs', authenticateUser, jobsRouter) // authenticateUser middleware for protected routes
 // refer all other path's to front-end 
 app.get('*',(req,res)=>{ 
-    res.sendFile(path.resolve(__dirname, '../client/build','index.html'))
+    res.sendFile(path.resolve(__dirname, 'client/build','index.html'))
 })
 
 //use middleware
