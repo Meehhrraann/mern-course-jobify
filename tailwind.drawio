@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T07:45:00.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ELcAo1OglxMTYePAvkHb" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T07:54:26.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HZ632bH58vIUnjoueP6O" version="21.7.5" type="github">
   <diagram name="Page-1" id="baHjwzmOf_UHPznftWON">
-    <mxGraphModel dx="3500" dy="1913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1226,7 +1226,7 @@
           <mxGeometry y="30" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gV0q3vZJkTp4POuLRBgW-531" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;purgecss&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="440" width="500" height="396.1026421404682" as="geometry" />
+          <mxGeometry x="2372" y="400" width="500" height="396.1026421404682" as="geometry" />
         </mxCell>
         <mxCell id="gV0q3vZJkTp4POuLRBgW-532" value="&lt;b&gt;npm i @fullhuman/postcss-purgecss&lt;/b&gt;" style="text;strokeColor=#432D57;fillColor=#76608a;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#ffffff;" parent="gV0q3vZJkTp4POuLRBgW-531" vertex="1">
           <mxGeometry y="30" width="500" height="50" as="geometry" />
@@ -1656,6 +1656,24 @@
         </mxCell>
         <mxCell id="0nA7LMraYHgkVl1cG1f1-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1387" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-28" value="&lt;b&gt;install tailwind&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="2377" y="-30" width="270" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-29" value="&lt;b&gt;npm i tailwindcss postcss autoprefixer -D&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;npx tailwindcss init -p&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+          <mxGeometry y="30" width="270" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-30" value="&lt;b&gt;//tailwind.config.js&lt;br&gt;&lt;/b&gt;&lt;div&gt;/** @type {import(&#39;tailwindcss&#39;).Config} */&lt;/div&gt;&lt;div&gt;module.exports = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; content: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;./src/**/*.{js,ts,jsx,tsx}&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; theme: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; extend: {},&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; plugins: [],&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+          <mxGeometry y="96" width="270" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-31" value="&lt;div&gt;&lt;b&gt;//index.css&lt;/b&gt;&lt;/div&gt;&lt;div&gt;@tailwind base;&lt;/div&gt;&lt;div&gt;@tailwind components;&lt;/div&gt;&lt;div&gt;@tailwind utilities;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+          <mxGeometry y="280" width="270" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-58" value="&lt;b&gt;persian font&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="1803" y="1460" width="360" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-59" value="&lt;div&gt;@layer utilities {&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; @font-face {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-family: &#39;Vazir&#39;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.eot&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.woff&#39;) format(&#39;woff&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.ttf&#39;) format(&#39;truetype&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-weight: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-style: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body {&lt;/div&gt;&lt;div&gt;&amp;nbsp; font-family: &quot;Vazir&quot;;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-58">
+          <mxGeometry y="30" width="360" height="243" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
