@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T11:05:05.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DdVspWAHjRPSWEIjwzgz" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T11:29:24.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aI19n1AgcSIXQNK9qVgN" version="21.7.5" type="github">
   <diagram name="Page-1" id="CSEEEu35cXwi_lb4nhBm">
-    <mxGraphModel dx="6200" dy="3096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3750" dy="1757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="qvC1rAjlKCgE7y-Mb4Qn-140" value="dash" style="locked=1;" parent="0" />
@@ -951,8 +951,32 @@
         <mxCell id="eSc4ELuyMVzxUKrQtKxQ-23" value="state" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
           <mxGeometry x="8180" y="453" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="gXDjX00FxWg2A7UojFQJ-107" source="eSc4ELuyMVzxUKrQtKxQ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8563" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eSc4ELuyMVzxUKrQtKxQ-24" value="index.js" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
           <mxGeometry x="8363" y="453" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-25" value="index.js" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="8190" y="1178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-26" value="react router" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="8452" y="1178" width="387" height="127" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;configure redux-toolkit &amp;amp; redux persist&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="eSc4ELuyMVzxUKrQtKxQ-26">
+          <mxGeometry y="30" width="387" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-30" value="react router" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="8585" y="345" width="736" height="311" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSc4ELuyMVzxUKrQtKxQ-31" value="&lt;div style=&quot;text-align: justify;&quot;&gt;initialstate,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;authSlice --reducers--&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;{ setMode, setLogin, setLogout, setFriends, setPosts, setPost }&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="eSc4ELuyMVzxUKrQtKxQ-30">
+          <mxGeometry y="30" width="736" height="281" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
