@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T07:58:11.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PSCYT2Xv4o9KCkc4Ixd-" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T08:18:00.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="31QkGL73Nxkp4tB06SCq" version="21.7.5" type="github">
   <diagram name="Page-1" id="CSEEEu35cXwi_lb4nhBm">
-    <mxGraphModel dx="2700" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="qvC1rAjlKCgE7y-Mb4Qn-140" value="dash" style="locked=1;" parent="0" />
@@ -881,13 +881,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gXDjX00FxWg2A7UojFQJ-107" value="front" parent="0" />
-        <mxCell id="gXDjX00FxWg2A7UojFQJ-108" value="&lt;b&gt;cliend: install packages&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
-          <mxGeometry x="6044" y="-77" width="290" height="310" as="geometry">
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-108" value="&lt;b&gt;client: install packages&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="6044" y="-77" width="290" height="382" as="geometry">
             <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gXDjX00FxWg2A7UojFQJ-109" value="cd ..&lt;br&gt;&lt;br&gt;npx create-react-app client&lt;br&gt;&lt;br&gt;cd client&lt;br&gt;&lt;br&gt;npm i react-redux @reduxjs/toolkit redux-persist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-108">
-          <mxGeometry y="30" width="290" height="280" as="geometry" />
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-109" value="cd ..&lt;br&gt;&lt;br&gt;npx create-react-app client&lt;br&gt;&lt;br&gt;cd client&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;@mui/material @emotion/react @emotion/styled @mui/icons-material&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-108">
+          <mxGeometry y="30" width="290" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-110" value="&lt;b&gt;assets&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="6399" y="-77" width="319" height="71" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-111" value="public -&amp;gt; assets folder -&amp;gt; ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-110">
+          <mxGeometry y="30" width="319" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-112" value="&lt;b&gt;delete files&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="6781" y="-77" width="319" height="243" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-113" value="setupTest.js&lt;br&gt;reportWebVitals.js&lt;br&gt;logo.svg&lt;br&gt;App.test.js&lt;br&gt;App.css&lt;br&gt;&lt;br&gt;edit index.js&lt;br&gt;clear index.css" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-112">
+          <mxGeometry y="30" width="319" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="gXDjX00FxWg2A7UojFQJ-114" value="&lt;b&gt;add font&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="gXDjX00FxWg2A7UojFQJ-107">
+          <mxGeometry x="7166" y="-77" width="319" height="210" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
