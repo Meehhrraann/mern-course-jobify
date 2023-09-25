@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T07:55:47.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-BQcCCzDzcyO4bLIpzZi" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T08:54:12.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YBFtwwKgBYyD045xvGCS" version="21.8.0" type="github">
   <diagram name="Page-1" id="baHjwzmOf_UHPznftWON">
-    <mxGraphModel dx="3000" dy="2040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="318" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
             <mxRectangle width="90" height="73" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gV0q3vZJkTp4POuLRBgW-318" value="í ½í°" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" parent="gV0q3vZJkTp4POuLRBgW-316" vertex="1">
+        <mxCell id="gV0q3vZJkTp4POuLRBgW-318" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" parent="gV0q3vZJkTp4POuLRBgW-316" vertex="1">
           <mxGeometry x="90" width="70" height="73" as="geometry">
             <mxRectangle width="70" height="73" as="alternateBounds" />
           </mxGeometry>
@@ -264,7 +264,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gV0q3vZJkTp4POuLRBgW-568" value="-í ½í°" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" parent="gV0q3vZJkTp4POuLRBgW-566" vertex="1">
+        <mxCell id="gV0q3vZJkTp4POuLRBgW-568" value="-ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" parent="gV0q3vZJkTp4POuLRBgW-566" vertex="1">
           <mxGeometry x="90" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1585,98 +1585,95 @@
         <mxCell id="gV0q3vZJkTp4POuLRBgW-724" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gV0q3vZJkTp4POuLRBgW-699" source="gV0q3vZJkTp4POuLRBgW-704" target="gV0q3vZJkTp4POuLRBgW-704" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="624" y="218" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/674_flower_love_heart_wedding_valentine_valentines_day_love-128.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/674_flower_love_heart_wedding_valentine_valentines_day_love-128.png" parent="1" vertex="1">
           <mxGeometry x="541" y="218" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="622" y="515" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="596" y="564" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="595" y="706" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="596" y="753" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="884.5" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="938" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="998" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1057.5" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1121" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1177" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1239" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1300" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1354.5" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="626" y="1421" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" parent="1" vertex="1">
           <mxGeometry x="1169" y="500" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-1/256/baby-128.png;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-1/256/baby-128.png;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1164" y="542" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/game-asset-1/24/mousepad-128.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/game-asset-1/24/mousepad-128.png" parent="1" vertex="1">
           <mxGeometry x="961.5" y="61" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699458-icon-27-one-finger-click-128.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699458-icon-27-one-finger-click-128.png" parent="1" vertex="1">
           <mxGeometry x="959" y="211.25" width="41.5" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/game-asset-1/24/mousepad-128.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/game-asset-1/24/mousepad-128.png" parent="1" vertex="1">
           <mxGeometry x="960.75" y="105" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699458-icon-27-one-finger-click-128.png" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699458-icon-27-one-finger-click-128.png" parent="1" vertex="1">
           <mxGeometry x="959" y="256.5" width="41.5" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" parent="1" vertex="1">
           <mxGeometry x="1100" y="1292" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" parent="1" vertex="1">
           <mxGeometry x="1100" y="1387" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-28" value="&lt;b&gt;install tailwind&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-28" value="&lt;b&gt;install tailwind&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="2377" y="-30" width="270" height="353" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-29" value="&lt;b&gt;npm i tailwindcss postcss autoprefixer -D&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;npx tailwindcss init -p&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-29" value="&lt;b&gt;npm i tailwindcss postcss autoprefixer -D&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;npx tailwindcss init -p&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="0nA7LMraYHgkVl1cG1f1-28" vertex="1">
           <mxGeometry y="30" width="270" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-30" value="&lt;b&gt;//tailwind.config.js&lt;br&gt;&lt;/b&gt;&lt;div&gt;/** @type {import(&#39;tailwindcss&#39;).Config} */&lt;/div&gt;&lt;div&gt;module.exports = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; content: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;./src/**/*.{js,ts,jsx,tsx}&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; theme: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; extend: {},&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; plugins: [],&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-30" value="&lt;b&gt;//tailwind.config.js&lt;br&gt;&lt;/b&gt;&lt;div&gt;/** @type {import(&#39;tailwindcss&#39;).Config} */&lt;/div&gt;&lt;div&gt;module.exports = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; content: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;./src/**/*.{js,ts,jsx,tsx}&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; theme: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; extend: {},&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; plugins: [],&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="0nA7LMraYHgkVl1cG1f1-28" vertex="1">
           <mxGeometry y="96" width="270" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-31" value="&lt;div&gt;&lt;b&gt;//index.css&lt;/b&gt;&lt;/div&gt;&lt;div&gt;@tailwind base;&lt;/div&gt;&lt;div&gt;@tailwind components;&lt;/div&gt;&lt;div&gt;@tailwind utilities;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-28">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-31" value="&lt;div&gt;&lt;b&gt;//index.css&lt;/b&gt;&lt;/div&gt;&lt;div&gt;@tailwind base;&lt;/div&gt;&lt;div&gt;@tailwind components;&lt;/div&gt;&lt;div&gt;@tailwind utilities;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="0nA7LMraYHgkVl1cG1f1-28" vertex="1">
           <mxGeometry y="280" width="270" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-58" value="&lt;b&gt;persian font&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-58" value="&lt;b&gt;persian font&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="1803" y="1460" width="360" height="273" as="geometry" />
         </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-59" value="&lt;div&gt;@layer utilities {&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; @font-face {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-family: &#39;Vazir&#39;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.eot&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.woff&#39;) format(&#39;woff&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.ttf&#39;) format(&#39;truetype&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-weight: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-style: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body {&lt;/div&gt;&lt;div&gt;&amp;nbsp; font-family: &quot;Vazir&quot;;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="0nA7LMraYHgkVl1cG1f1-58">
+        <mxCell id="0nA7LMraYHgkVl1cG1f1-59" value="&lt;div&gt;@layer utilities {&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; @font-face {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-family: &#39;Vazir&#39;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.eot&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.woff&#39;) format(&#39;woff&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; src: url(&#39;../public/font/Vazir.ttf&#39;) format(&#39;truetype&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-weight: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; font-style: normal;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;body {&lt;/div&gt;&lt;div&gt;&amp;nbsp; font-family: &quot;Vazir&quot;;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="0nA7LMraYHgkVl1cG1f1-58" vertex="1">
           <mxGeometry y="30" width="360" height="243" as="geometry" />
-        </mxCell>
-        <mxCell id="0nA7LMraYHgkVl1cG1f1-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kids/128x128/apps/agt_family.png" vertex="1" parent="1">
-          <mxGeometry x="606" y="574" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
