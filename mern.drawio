@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T06:57:05.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-9VBqn900EPBeIdzTJ3Z" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T08:11:26.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="konSdVcKrKNVHigt0lCx" version="22.0.4" type="github">
   <diagram name="Page-1" id="CSEEEu35cXwi_lb4nhBm">
-    <mxGraphModel dx="7263" dy="3151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4638" dy="1768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="qvC1rAjlKCgE7y-Mb4Qn-140" value="dash" style="locked=1;" parent="0" />
@@ -1460,8 +1460,11 @@
             <mxRectangle width="422" height="179" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xyjtQymuFBENzfyaHtgz-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="xyjtQymuFBENzfyaHtgz-135" target="xyjtQymuFBENzfyaHtgz-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-135" value="code" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=36;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="8722" y="6644.050923274113" width="95" height="36" as="geometry">
+          <mxGeometry x="8607" y="5729.000923274113" width="95" height="36" as="geometry">
             <mxRectangle x="8722" y="6344" width="140" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1469,15 +1472,18 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-137" value="store.js" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="9275" y="6644.05" width="711" height="312" as="geometry">
+          <mxGeometry x="9160" y="5729" width="711" height="312" as="geometry">
             <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-138" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;import { &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;configureStore&lt;/span&gt; } from &#39;@reduxjs/toolkit&#39;&lt;/div&gt;&lt;div&gt;import authReducer from &#39;../features/auth/authSlice&#39;&lt;/div&gt;&lt;div&gt;import goalReducer from &#39;../features/goals/goalSlice&#39;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;export const store = configureStore({&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;reducer&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; auth: authReducer,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; goals: goalReducer,&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="xyjtQymuFBENzfyaHtgz-137">
           <mxGeometry y="30" width="711" height="282" as="geometry" />
         </mxCell>
+        <mxCell id="xyjtQymuFBENzfyaHtgz-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="xyjtQymuFBENzfyaHtgz-139" target="xyjtQymuFBENzfyaHtgz-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-139" value="app" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="8982" y="6645.05" width="120" height="60" as="geometry" />
+          <mxGeometry x="8867" y="5730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-145" value="package.json" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5827" y="5983" width="133" height="64" as="geometry" />
@@ -1495,6 +1501,17 @@
         </mxCell>
         <mxCell id="xyjtQymuFBENzfyaHtgz-152" value="features -&amp;gt; auth" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5510" y="6321" width="193" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xyjtQymuFBENzfyaHtgz-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="xyjtQymuFBENzfyaHtgz-60" target="xyjtQymuFBENzfyaHtgz-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyjtQymuFBENzfyaHtgz-157" value="component.js" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="8918" y="6407" width="1059" height="312" as="geometry">
+            <mxRectangle x="60" y="60" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyjtQymuFBENzfyaHtgz-158" value="&lt;div style=&quot;text-align: justify;&quot;&gt;import { useSelector, useDispatch } from &#39;react-redux&#39;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;const dispatch = useDispatch()&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;const { user, isLoading, isError, isSuccess, message } = useSelector(&lt;span style=&quot;background-color: initial;&quot;&gt;(state) =&amp;gt;state.auth&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;onSubmit -&amp;gt; dispatch(register(userData))&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="xyjtQymuFBENzfyaHtgz-157">
+          <mxGeometry y="30" width="1059" height="282" as="geometry" />
         </mxCell>
         <mxCell id="qvC1rAjlKCgE7y-Mb4Qn-157" value="protected path" style="locked=1;" parent="0" />
         <mxCell id="qvC1rAjlKCgE7y-Mb4Qn-163" value="" style="group" parent="qvC1rAjlKCgE7y-Mb4Qn-157" vertex="1" connectable="0">
